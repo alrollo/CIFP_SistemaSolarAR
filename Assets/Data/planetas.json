@@ -1,0 +1,62 @@
+[
+	{
+		"Id": "sol",
+		"Name": "Sol",
+		"Description": "<size>Información</size>\r\n\r\nEl <b>Sol</b> es ...",
+		"Image": "sol"
+	},
+	{
+		"Id": "venus",
+		"Name": "Venus",
+		"Description": "<size>Información</size>\r\n\r\n<b>Venus</b> es ...",
+		"Image": "venus"
+	},
+	{
+		"Id": "tierra",
+		"Name": "Tierra",
+		"Description": "<size>Información</size>\r\n\r\n<b>Sistema Solar AR</b> es una aplicación realizada por los alumnos del <b>Curso de Espacialización en desarrollo de videojuegos y realidad virtual</b> ofertado por el <b>Centro Integrado de Formación Profesiona Nº1 Cuenca</b>. \r\n\r\nDurante la realización de la aplicación se han visto distintos sistemas para implementar <b>Realidad Aumentada</b>. \r\n\r\nLos alumnos que se han ocupado del desarrollo han sido: \r\n\r\n- Miguel Ángle Sequi\r\n\r\n- Manuel\r\n\r\n- Daniel\r\n\r\n- Pablo\r\n\r\nPara el desarrollo de la misma se han utilizado varios assets descargados de la Store de <b>Unity</b> de modo que agradecemos a sus autores la contribución que hacen. \r\n\r\nLos assets utilizados han sido:\r\n\r\n- Sistema Solar Planets \r\n\r\n- Sci UI \r\n\r\n Si quieres más información puedes ponerte en contacto con el equipo a través de informatica@cifpcuenca.es\r\n\r\nGracias",
+		"Image": "tierra"
+	},
+	{
+		"Id": "luna",
+		"Name": "Luna",
+		"Description": "<size>Información</size>\r\n\r\nLa <b>Luna</b> es ...",
+		"Image": "luna"
+	},
+	{
+		"Id": "marte",
+		"Name": "Marte",
+		"Description": "<size>Información</size>\r\n\r\n<b>Marte</b> es ...",
+		"Image": "marte"
+	},
+	{
+		"Id": "jupiter",
+		"Name": "Jupiter",
+		"Description": "",
+		"Image": ""
+	},
+	{
+		"Id": "saturno",
+		"Name": "Saturno",
+		"Description": "",
+		"Image": ""
+	},
+	{
+		"Id": "urano",
+		"Name": "Urano",
+		"Description": "",
+		"Image": ""
+	},
+	{
+		"Id": "neptuno",
+		"Name": "Neptuno",
+		"Description": "",
+		"Image": ""
+	},
+	{
+		"Id": "pluton",
+		"Name": "Plutón",
+		"Description": "",
+		"Image": ""
+	}
+]
