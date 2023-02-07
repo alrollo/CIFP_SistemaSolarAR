@@ -7,5 +7,7 @@ public class Planeta
     public string Name;
     public string Description;
     public string Image;
+    public int Size;
+    public int Distance;
 
 }

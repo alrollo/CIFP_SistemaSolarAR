@@ -3,60 +3,88 @@
 		"Id": "sol",
 		"Name": "Sol",
 		"Description": "<size>Información</size>\r\n\r\nEl <b>Sol</b> es ...",
-		"Image": "sol"
+		"Image": "sol",
+		"Size": 10,
+		"Distance": 0
+	},
+	{
+		"Id": "mercurio",
+		"Name": "Mercurio",
+		"Description": "<size>Información</size>\r\n\r\n<b>Mercurio</b> es ...",
+		"Image": "mercurio",
+		"Size": 3,
+		"Distance": 40
 	},
 	{
 		"Id": "venus",
 		"Name": "Venus",
 		"Description": "<size>Información</size>\r\n\r\n<b>Venus</b> es ...",
-		"Image": "venus"
+		"Image": "venus",
+		"Size": 7,
+		"Distance": 70	
 	},
 	{
 		"Id": "tierra",
 		"Name": "Tierra",
 		"Description": "<size>Información</size>\r\n\r\n<b>Sistema Solar AR</b> es una aplicación realizada por los alumnos del <b>Curso de Espacialización en desarrollo de videojuegos y realidad virtual</b> ofertado por el <b>Centro Integrado de Formación Profesiona Nº1 Cuenca</b>. \r\n\r\nDurante la realización de la aplicación se han visto distintos sistemas para implementar <b>Realidad Aumentada</b>. \r\n\r\nLos alumnos que se han ocupado del desarrollo han sido: \r\n\r\n- Miguel Ángle Sequi\r\n\r\n- Manuel\r\n\r\n- Daniel\r\n\r\n- Pablo\r\n\r\nPara el desarrollo de la misma se han utilizado varios assets descargados de la Store de <b>Unity</b> de modo que agradecemos a sus autores la contribución que hacen. \r\n\r\nLos assets utilizados han sido:\r\n\r\n- Sistema Solar Planets \r\n\r\n- Sci UI \r\n\r\n Si quieres más información puedes ponerte en contacto con el equipo a través de informatica@cifpcuenca.es\r\n\r\nGracias",
-		"Image": "tierra"
+		"Image": "tierra",
+		"Size": 8,
+		"Distance": 100
 	},
 	{
 		"Id": "luna",
 		"Name": "Luna",
 		"Description": "<size>Información</size>\r\n\r\nLa <b>Luna</b> es ...",
-		"Image": "luna"
+		"Image": "luna",
+		"Size": 1,
+		"Distance": 10
 	},
 	{
 		"Id": "marte",
 		"Name": "Marte",
 		"Description": "<size>Información</size>\r\n\r\n<b>Marte</b> es ...",
-		"Image": "marte"
+		"Image": "marte",
+		"Size": 4,
+		"Distance": 150
 	},
 	{
 		"Id": "jupiter",
 		"Name": "Jupiter",
-		"Description": "",
-		"Image": ""
+		"Description": "<size>Información</size>\r\n\r\n<b>Jupiter</b> es ...",
+		"Image": "",
+		"Size": 18,
+		"Distance": 300
 	},
 	{
 		"Id": "saturno",
 		"Name": "Saturno",
-		"Description": "",
-		"Image": ""
+		"Description": "<size>Información</size>\r\n\r\n<b>Saturno</b> es ...",
+		"Image": "",
+		"Size": 20,
+		"Distance": 500
 	},
 	{
 		"Id": "urano",
 		"Name": "Urano",
-		"Description": "",
-		"Image": ""
+		"Description": "<size>Información</size>\r\n\r\n<b>Urano</b> es ...",
+		"Image": "",
+		"Size": 25,
+		"Distance": 900
 	},
 	{
 		"Id": "neptuno",
 		"Name": "Neptuno",
-		"Description": "",
-		"Image": ""
+		"Description": "<size>Información</size>\r\n\r\n<b>Neptuno</b> es ...",
+		"Image": "",
+		"Size": 15,
+		"Distance": 1300
 	},
 	{
 		"Id": "pluton",
 		"Name": "Plutón",
-		"Description": "",
-		"Image": ""
+		"Description": "<size>Información</size>\r\n\r\n<b>Plutón</b> es ...",
+		"Image": "pluton",
+		"Size": 10,
+		"Distance": 1500
 	}
 ]
